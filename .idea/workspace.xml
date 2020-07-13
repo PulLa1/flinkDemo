@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b56b3f7e-f8af-4acb-b1be-c36fed456e27" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/rich/BaseRichSink.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-280">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/rich/CpcRichSink.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/StreamingJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/LocalTextJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/twicepc/MySqlTwoPhaseCommitSink.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/pojo/ControlLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/04TRC01040.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/04TRC01048.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/util/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>snap</find>
+      <find>snapshotState</find>
+      <find>jedis</find>
+      <find>getConcreteClass</find>
+      <find>context</find>
+      <find>sna</find>
+      <find>notify</find>
+      <find>notifyCheckpointComplete</find>
+      <find>start preCommit...</find>
+      <find>recoverAndCommit</find>
+      <find>start abort rollback</find>
+      <find>Committing one of transactions failed, logging first encountered failure</find>
+      <find>执行的SQL语句</find>
+      <find>beginTransaction</find>
+      <find>commit</find>
+      <find>close(</find>
+      <find>reference</find>
+      <find>register</find>
+      <find>getConnection</find>
+      <find>getConnection(</find>
+      <find>offsetStates</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/util/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/util/DateUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/source/Source.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/util/Constants.java" />
+        <option value="$PROJECT_DIR$/doc/test.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/pojo/WordDto.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/TestOther.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/TestFather.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/TestChildren.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/DBException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/ConnectionSerialize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/DBUtil.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/MySqlTwoPhaseCommitSink.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/rich/ConPcSink.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/DBConnectUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/twicepc/MySqlTwoPhaseCommitSink.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/rich/MysqlRichSink.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/rich/BaseRichSink.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/source/WordSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/pojo/ControlLoop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/StreamingJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/LocalTextJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yz/sink/rich/CpcRichSink.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Maven\repository" />
+        <option name="userSettingsFile" value="F:\Maven\setting.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1000" />
+    <option name="y" value="40" />
+    <option name="width" value="985" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yz" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yz" type="462c0819:PsiDirectoryNode" />
+              <item name="sink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yz" type="462c0819:PsiDirectoryNode" />
+              <item name="sink" type="462c0819:PsiDirectoryNode" />
+              <item name="rich" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yz" type="462c0819:PsiDirectoryNode" />
+              <item name="sink" type="462c0819:PsiDirectoryNode" />
+              <item name="twicepc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yz" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yz" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-1.10-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-1.10-test" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProject\Flink\flink-1.10-test\src\main\resources" />
+      <recent name="E:\IdeaProject\Flink\flink-1.10-test\doc" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yz.util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProject\Flink\flink-1.10-test\src\main\java\com\yz\sink" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StreamingJob">
+    <configuration name="DBConnectUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.yz.sink.DBConnectUtil" />
+      <module name="flink-1.10-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yz.sink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yz.sink.DBUtil" />
+      <module name="flink-1.10-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yz.sink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalTextJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.yz.LocalTextJob" />
+      <module name="flink-1.10-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamingJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.yz.StreamingJob" />
+      <module name="flink-1.10-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yz.sink.TestMain" />
+      <module name="flink-1.10-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yz.sink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StreamingJob" />
+      <item itemvalue="Application.LocalTextJob" />
+      <item itemvalue="Application.DBConnectUtil" />
+      <item itemvalue="Application.DBUtil" />
+      <item itemvalue="Application.TestMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamingJob" />
+        <item itemvalue="Application.LocalTextJob" />
+        <item itemvalue="Application.DBConnectUtil" />
+        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.DBUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b56b3f7e-f8af-4acb-b1be-c36fed456e27" name="Default Changelist" comment="" />
+      <created>1589251418021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589251418021</updated>
+      <workItem from="1589251423242" duration="1191000" />
+      <workItem from="1589500965667" duration="31000" />
+      <workItem from="1591932857407" duration="10585000" />
+      <workItem from="1592092767131" duration="593000" />
+      <workItem from="1593501846210" duration="3951000" />
+      <workItem from="1593565810519" duration="16637000" />
+      <workItem from="1593650465710" duration="21667000" />
+      <workItem from="1593738948774" duration="21743000" />
+      <workItem from="1594001127676" duration="8912000" />
+      <workItem from="1594084259559" duration="4130000" />
+      <workItem from="1594171737666" duration="1551000" />
+      <workItem from="1594301852345" duration="596000" />
+      <workItem from="1594599926241" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92216000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25134048" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.043290045" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33766234" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.21212122" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32900432" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Alipay DevTools" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32756132" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.16152816" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Word Book" order="10" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yz/sink/twicepc/MySqlTwoPhaseCommitSink.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="value" language="JAVA" />
+        <watch expression="timeStates.get()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>typeVar2class.size() &gt;10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>clazz == null &amp;&amp; parentScope != null &amp;&amp; ((HashMap) parentScope.typeVar2class).size&gt;10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>clazz == null &amp;&amp; parentScope != null &amp;&amp; parentScope.</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>clazz == null &amp;&amp; parentScope != null &amp;&amp; parentScope.</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>clazz == null &amp;&amp; parentScope != null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>timeStates.get()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>value</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>calendar.getTime()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parentScope</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pendingCommitTransactions.values()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>DateUtils.formatDateTime(calendar.getTime())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>key.hashCode()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(1 = key.hashCode()) ^ (1&gt;&gt;&gt; 16)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(h = key.hashCode()) ^ (h &gt;&gt;&gt; 16)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(key == null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://F:/Maven/repository/org/apache/flink/flink-core/1.10.0/flink-core-1.10.0-sources.jar!/org/apache/flink/api/common/typeutils/base/TypeSerializerSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/TestChildren.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/TestFather.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/TestMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/TestOther.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="599" column="28" selection-start-line="599" selection-start-column="15" selection-end-line="599" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/sql/SQLException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-866">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+          <folding>
+            <element signature="e#1598#1599#0" expanded="true" />
+            <element signature="e#1628#1629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/DBException.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/ConnectionSerialize.java" />
+    <entry file="jar://F:/Maven/repository/org/apache/flink/flink-core/1.10.0/flink-core-1.10.0-sources.jar!/org/apache/flink/api/common/ExecutionConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/com/esotericsoftware/kryo/kryo/2.24.0/kryo-2.24.0-sources.jar!/com/esotericsoftware/kryo/Kryo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="404" column="23" selection-start-line="404" selection-start-column="15" selection-end-line="404" selection-end-column="23" />
+          <folding>
+            <element signature="e#23391#23392#0" expanded="true" />
+            <element signature="e#23442#23443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/sql/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/org/apache/flink/flink-table-planner_2.11/1.10.0/flink-table-planner_2.11-1.10.0.jar!/org/apache/calcite/avatica/remote/Driver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="107" column="22" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/sql/Wrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar!/com/mysql/jdbc/JDBC4Connection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar!/com/mysql/jdbc/ConnectionImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="61" column="41" lean-forward="true" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar!/com/mysql/jdbc/jdbc2/optional/MysqlDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/com/alibaba/druid/1.1.12/druid-1.1.12.jar!/com/alibaba/druid/pool/DruidDataSourceFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="103" column="14" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/javax/sql/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="89" column="19" lean-forward="true" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/com/alibaba/druid/1.1.12/druid-1.1.12.jar!/com/alibaba/druid/pool/DruidDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="1222" column="26" selection-start-line="1222" selection-start-column="26" selection-end-line="1222" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/com/alibaba/druid/1.1.12/druid-1.1.12.jar!/com/alibaba/druid/pool/DruidPooledConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="41" column="93" selection-start-line="41" selection-start-column="93" selection-end-line="41" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/org/apache/flink/flink-core/1.10.0/flink-core-1.10.0-sources.jar!/org/apache/flink/api/java/typeutils/runtime/kryo/KryoSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="71" column="42" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/org/apache/flink/flink-core/1.10.0/flink-core-1.10.0-sources.jar!/org/apache/flink/api/common/typeutils/TypeSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/org/apache/flink/flink-core/1.10.0/flink-core-1.10.0-sources.jar!/org/apache/flink/api/java/typeutils/runtime/EitherSerializerConfigSnapshot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="243" column="30" selection-start-line="243" selection-start-column="22" selection-end-line="243" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/DBUtil.java" />
+    <entry file="file://$PROJECT_DIR$/hs_err_pid16464.log" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="95" column="20" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
+          <folding>
+            <element signature="n#plugin#0;n#plugins#0;n#pluginManagement#0;n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/util/RedisUtil.java" />
+    <entry file="jar://F:/Maven/repository/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar!/com/mysql/jdbc/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="337" selection-start-line="337" selection-end-line="337" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/org/apache/flink/flink-core/1.10.0/flink-core-1.10.0-sources.jar!/org/apache/flink/api/common/state/AppendingState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.10.0/flink-streaming-java_2.11-1.10.0-sources.jar!/org/apache/flink/streaming/api/functions/sink/TwoPhaseCommitSinkFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2420">
+          <caret line="183" column="22" selection-start-line="183" selection-start-column="14" selection-end-line="183" selection-end-column="22" />
+          <folding>
+            <element signature="e#7990#7991#0" expanded="true" />
+            <element signature="e#8016#8017#0" expanded="true" />
+            <element signature="e#8239#8240#0" expanded="true" />
+            <element signature="e#8264#8265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/pojo/WordDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/util/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2460">
+          <caret line="148" column="23" selection-start-line="148" selection-start-column="23" selection-end-line="148" selection-end-column="23" />
+          <folding>
+            <element signature="e#1754#1755#0" expanded="true" />
+            <element signature="e#1816#1817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/DBConnectUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="75" column="65" selection-start-line="75" selection-start-column="65" selection-end-line="75" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/source/WordSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1420">
+          <caret line="90" column="90" selection-start-line="90" selection-start-column="90" selection-end-line="90" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/pojo/ControlLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/04TRC01040.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/04TRC01048.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/util/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/twicepc/MySqlTwoPhaseCommitSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/LocalTextJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/StreamingJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/rich/CpcRichSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yz/sink/rich/BaseRichSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_191</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
